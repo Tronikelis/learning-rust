@@ -5,3 +5,5 @@ build and use the tool like this
 [-c]: concurrency
 [-t] how many seconds the stress test should run
 [-u] url to test
+
+BLAZINGLY FAST LETS GO!!!
